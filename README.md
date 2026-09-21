@@ -47,6 +47,7 @@ umiejętność ląduje w Twojej aplikacji głównej.
 | 01 | [Git i GitHub – powtórka i zasady](01-git-github.md) | repozytorium projektu Android, `.gitignore`, mikro-commity, `gh`, czyszczenie komputera |
 | 02 | [Agenci LLM – jak z nich korzystać](02-agenci-llm.md) | Claude Code, Codex CLI, Gemini CLI, `AGENTS.md`, typowe wpadki AI w Androidzie |
 | 03 | [Android Studio – wstęp](03-android-studio-wstep.md) | pierwszy projekt, `MainActivity.java`, `activity_main.xml`, manifest, `findViewById`, kliknięcie |
+| 04 | [ConstraintLayout i elementy UI](04-constraintlayout.md) | powiązania, bias, łańcuchy, guideline, barrier, edytor graficzny, komponenty i ich atrybuty |
 
 Kolejne dochodzą na bieżąco.
 
