@@ -48,6 +48,7 @@ umiejętność ląduje w Twojej aplikacji głównej.
 | 02 | [Agenci LLM – jak z nich korzystać](02-agenci-llm.md) | Claude Code, Codex CLI, Gemini CLI, `AGENTS.md`, typowe wpadki AI w Androidzie |
 | 03 | [Android Studio – wstęp](03-android-studio-wstep.md) | pierwszy projekt, `MainActivity.java`, `activity_main.xml`, manifest, `findViewById`, kliknięcie |
 | 04 | [ConstraintLayout i elementy UI](04-constraintlayout.md) | powiązania, bias, łańcuchy, guideline, barrier, edytor graficzny, komponenty i ich atrybuty |
+| 05 | [LinearLayout](05-linearlayout.md) | orientacja, wagi, `gravity` a `layout_gravity`, zagnieżdżanie, ekran rejestracji z egzaminu 2021 |
 
 Kolejne dochodzą na bieżąco.
 
