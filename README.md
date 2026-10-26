@@ -50,6 +50,7 @@ umiejętność ląduje w Twojej aplikacji głównej.
 | 04 | [ConstraintLayout i elementy UI](04-constraintlayout.md) | powiązania, bias, łańcuchy, guideline, barrier, edytor graficzny, komponenty i ich atrybuty |
 | 05 | [LinearLayout](05-linearlayout.md) | orientacja, wagi, `gravity` a `layout_gravity`, zagnieżdżanie, ekran rejestracji z egzaminu 2021 |
 | 06 | [Obsługa zdarzeń](06-obsluga-zdarzen.md) | pięć sposobów podpięcia kliknięcia, wspólny listener, stan aplikacji, działający kalkulator |
+| 07 | [Formularz i okna dialogowe](07-formularz-dialogi.md) | odczyt kontrolek, `Spinner` z adapterem, walidacja, `Toast`, `Snackbar`, `AlertDialog`, `ScrollView` |
 
 Kolejne dochodzą na bieżąco.
 
